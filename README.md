@@ -1,5 +1,5 @@
 # Birdika
 
-@ [LinkedIn].(www.linkedin.com/in/shradha-birdika).
+@ [LinkedIn](www.linkedin.com/in/shradha-birdika).
 
 
