@@ -1,6 +1,6 @@
 ## **Hello👋, my name is Shradha Birdika**
 
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](www.linkedin.com/in/shradha-birdika)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/shradha-birdika/)
 
 
 
