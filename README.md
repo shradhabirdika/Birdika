@@ -3,6 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/shradha-birdika/)
 
 
+<img alt="Static Badge" src="https://img.shields.io/badge/www.linkedin.com%2Fin%2Fshradha-birdika?logo=LinkedIn&logoSize=auto&link=Open%20link%20in%20new%20tab">
 
 
 
