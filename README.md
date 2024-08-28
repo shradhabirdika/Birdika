@@ -3,6 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/shradha-birdika/)
 
 
+[![Repo size](https://img.shields.io/github/repo-size/shradhabirdika/shradhabirdika)
 
 
 
